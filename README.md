@@ -28,7 +28,10 @@ Aplikacja demonstracyjna wykorzystana do przygotowania i dokumentowania przypadk
 
 ## Dokumentacja testowa
 
-Repozytorium będzie zawierać przypadki testowe przygotowane dla aplikacji MyStore oraz dodatkowe materiały dokumentujące proces testowania.
+Repozytorium zawiera dokumentację projektu testowego MyStore.
+
+- **Specyfikacja wymagań:** [Wymagania sklepu internetowego MyStore](./Wymagania%20sklepu%20internetowego%20MyStore.pdf)
+- **Przypadki testowe:** dokumentacja będzie dodawana chronologicznie, zgodnie z kolejnością tworzenia przypadków w Jira.
 
 ## Status projektu
 
